@@ -1,5 +1,5 @@
 <img src = "poster.png" alt = "poster">
-<h1 align="center" style = "font-size:45px">Hi 👋, I'm Venkatesh Khatake</h1>
+<h1 align="center" style = "font-size:45">Hi 👋, I'm Venkatesh Khatake</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesh-khatake&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh-khatake" /> </p>
