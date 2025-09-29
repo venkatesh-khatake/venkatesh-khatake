@@ -1,3 +1,4 @@
+<img src = "" alt = "poster">
 <h1 align="center">Hi 👋, I'm Venkatesh Khatake</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
